@@ -86,16 +86,16 @@ export default function NDISSection() {
           </p>
           <div className="flex flex-wrap items-center justify-center gap-3">
             <a 
-              href="mailto:hello@scalebreakers.space" 
+              href="mailto:contact.scalebreakers@gmail.com" 
               className="inline-flex rounded-xl border border-gray-300 px-4 py-2 text-sm md:text-base hover:bg-gray-50 transition"
             >
-              📧 hello@scalebreakers.space
+              📧 contact.scalebreakers@gmail.com
             </a>
             <a 
-              href="tel:+61412345678" 
+              href="tel:+61404812284" 
               className="inline-flex rounded-xl border border-gray-300 px-4 py-2 text-sm md:text-base hover:bg-gray-50 transition"
             >
-              📞 Contact Us
+              📞 \+61404812284
             </a>
             <a 
               href="/workshops" 
@@ -113,3 +113,6 @@ export default function NDISSection() {
     </section>
   );
 }
+
+
+
